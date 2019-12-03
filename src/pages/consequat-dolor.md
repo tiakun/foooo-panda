@@ -1,9 +1,9 @@
 ---
-title: Consequat Dolor
+title: บทที่ 1
 img_src: images/pic13.jpg
 menus:
   main:
-    title: Consequat dolor
+    title: เริ่ม ๆๆๆ
     weight: 4
 template: page
 ---
